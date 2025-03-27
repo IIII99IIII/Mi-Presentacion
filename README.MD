@@ -7,4 +7,4 @@ Me interesa la programación porque me permite crear soluciones innovadoras, aut
 Tecnologías que me interesan
 - IA.
 - La Nube de archivos.
-- Desarrollo Web.
+- Desarrollo Web
